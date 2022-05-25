@@ -166,5 +166,7 @@ bot.on('messageCreate', message => {
 
 ## **Complete! You created your first bot ;D**
 
+- ##  If you need a help with discord.js you can go to in documentation in official site [Discord.js](https://discord.js.org/#/docs/discord.js/stable/general/welcome) 
+
 # **Thank you very much for reading my guide on how to create a bot on `Node.js`, if you want you can join to my discord server**
 # [Join to discord server](https://discord.gg/C3EH9E32mb)
