@@ -64,7 +64,7 @@ Press `New application`
 
 - **Open this file (I use VS code)**
 
-#Installation `Discord.js`
+# Installation `Discord.js`
 
 ```
 npm i discord.js
