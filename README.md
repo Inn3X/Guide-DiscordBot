@@ -159,7 +159,7 @@ bot.on('messageCreate', message => {
 
 - **Select `In-app Authorization`**
 
-![image](https://user-images.githubusercontent.com/92126223/170270695-dcd08d00-77f4-4012-a68e-6a9c15131b77.png)
+![image](https://user-images.githubusercontent.com/92126223/170287981-3ce177ca-3c5c-4e9e-9d55-bccb1d8222f6.png)
 
 - **Then choose `bot` and permissions**
 
