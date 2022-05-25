@@ -84,7 +84,7 @@ In `package.json` we can see curently version discord.js
 ```js
 const Discord = require(`discord.js`);
 const intents = new Discord.Intents(32767);
-const bot = new Discord.Client({ intents });;
+const bot = new Discord.Client({ intents });
 const id = '!';
 
 
