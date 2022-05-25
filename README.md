@@ -29,6 +29,11 @@ Press `New application`
 
 ![image](https://user-images.githubusercontent.com/92126223/170254299-5ff535a1-9a79-4098-a125-1f3a6f65828a.png)
 
+- **Enable this option**
+
+![image](https://user-images.githubusercontent.com/92126223/170280473-0b26eb04-d64f-4ec7-894e-b36ae55890fa.png)
+
+
 # **Adding your bot to server**
 
 - **Go to OAuth2 - URL Generator**
