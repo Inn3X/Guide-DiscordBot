@@ -46,6 +46,19 @@ Press `New application`
 
 - **Head to the following URL**
 
+**If you have `Please enter a redirect url`**
+
+![image](https://user-images.githubusercontent.com/92126223/170532589-d2798e44-8941-4bc5-9b51-b73f38306716.png)
+
+
+- **Go to OAuth2 and press `COPY` and get this CLIENT ID**
+
+![image](https://user-images.githubusercontent.com/92126223/170532408-ac77dbf6-cea2-49de-96b8-63ed1ed9d138.png)
+
+- **Head to the following URL, replacing YOUR_CLIENT_ID with the ID you grabbed above:**
+
+`https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=YOUR_CLIENT_ID`
+
 ![image](https://user-images.githubusercontent.com/92126223/170255833-e669820c-0133-437a-827b-bba301db030f.png)
 
 - **Conguraltions! We added bot to our server!**
