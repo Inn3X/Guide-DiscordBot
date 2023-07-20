@@ -186,4 +186,4 @@ bot.on('messageCreate', message => {
 
 - ##  If you need a help with discord.js you can go to in documentation in official site [Discord.js](https://discord.js.org/#/docs/discord.js/stable/general/welcome) 
 
-# **Thank you very much for reading my guide on how to create a bot on `Node.js`, if you want you can join to my discord server**
+# **Thank you very much for reading my guide on how to create a bot on `Node.js`**
